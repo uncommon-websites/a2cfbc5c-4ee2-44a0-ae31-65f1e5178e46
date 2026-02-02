@@ -4,11 +4,11 @@
 
 <header class="fixed top-0 left-0 w-full z-50 px-6 py-6 md:px-8 md:py-8 flex justify-between items-center text-[10px] md:text-xs tracking-[0.15em] uppercase font-medium text-gray-800 mix-blend-multiply pointer-events-none transition-all duration-300">
 	<div class="pointer-events-auto cursor-pointer hover:opacity-60 transition-opacity">
-		Portfolio
+		Pre-order
 	</div>
 
 	<div class="absolute left-1/2 -translate-x-1/2 text-center pointer-events-auto cursor-pointer hover:opacity-60 transition-opacity">
-		<h1 class="tracking-[0.25em] md:tracking-[0.35em] whitespace-nowrap">Sarah Sherman Samuel</h1>
+		<h1 class="tracking-[0.25em] md:tracking-[0.35em] whitespace-nowrap">Caira Camera Intelligence</h1>
 	</div>
 
 	<div class="pointer-events-auto cursor-pointer hover:opacity-60 transition-opacity flex items-center gap-3">
